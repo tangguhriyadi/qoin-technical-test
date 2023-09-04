@@ -27,3 +27,6 @@
 - **Loyalty Program:** Implement a loyalty program feature to encourage customer retention with special discounts or rewards.
 
 - **Table Reservations:** Allow customers to make table reservations through the application.
+
+# I. Practical Test
+open file [main.go](https://github.com/tangguhriyadi/qoin-technical-test/blob/main/main.go) 
