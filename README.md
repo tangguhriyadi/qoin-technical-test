@@ -1,11 +1,9 @@
-# qoin-technical-test
+# I. Theoretical Test
 
-## I. Theoretical Test
-
-### Diagram
+## Diagram
 [![Alt Text](Theoretical_test_diagram.png)](https://dbdiagram.io/d/64f54adf02bd1c4a5ee5668a)
 
-### Technologies Used
+## Technologies Used
 1. **Database Management System (DBMS):** MySQL or PostgreSQL
    - This choice because MySQL and PostgreSQL are powerful and reliable database management systems. We use the appropriate Go driver to interact with these databases.
 
@@ -18,7 +16,7 @@
 4. **Frontend Framework:** React or Vue.js (if needed)
    - If we require a responsive and interactive user interface, you can still use React or Vue.js for the frontend.
   
-### Additional Features
+## Additional Features
 
 - **Online Ordering:** Customers can place food orders online through the application, including delivery options.
 
