@@ -3,7 +3,7 @@
 ## I. Theoretical Test
 
 ### Diagram
-[![Alt Text](Theoretical_test_diagram.png)](https://dbdiagram.io/d/64f54adf02bd1c4a5ee5668a)
+[![Alt Text](Theoretical_test_diagram.png)](https://dbdiagram.io/d/64f54adf02bd1c4a5ee5668a){:target="_blank"}
 
 ### Technologies Used
 1. **Database Management System (DBMS):** MySQL or PostgreSQL
